@@ -379,6 +379,10 @@ Javascript data structures:
 - Array
 - Object
 
+Methods are functions inside the object.
+Example:
+console.log() - console is object - log() is function
+
 Javascript looping:
 - for
 - while
